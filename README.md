@@ -101,7 +101,7 @@ You can also customize chatbot with different configuration
     },
     theme: {
       button: {
-        backgroundColor: '#3B81F6',
+        backgroundColor: '#ff0fbe',
         right: 20,
         bottom: 20,
         size: 'medium',
@@ -126,7 +126,7 @@ You can also customize chatbot with different configuration
           avatarSrc: 'https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/parroticon.png',
         },
         userMessage: {
-          backgroundColor: '#3B81F6',
+          backgroundColor: '#ff0fbe',
           textColor: '#ffffff',
           showAvatar: true,
           avatarSrc: 'https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/usericon.png',
@@ -135,7 +135,7 @@ You can also customize chatbot with different configuration
           placeholder: 'Type your question',
           backgroundColor: '#ffffff',
           textColor: '#303235',
-          sendButtonColor: '#3B81F6',
+          sendButtonColor: '#ff0fbe',
         },
       },
     },
